@@ -1,15 +1,14 @@
 
-https://i.gifer.com/Bhn4.gif
 
 <p align="center">
-  <img src="[https://i.imgur.com/GZHodUG.png](https://i.gifer.com/Bhn4.gif)" width="100px"/>
+  <img src="" width="100px"/>
   <h3 align="center">Github Readme Streak Stats</h3>
 </p>
 
 <p align="center">
-  Display your total contributions, current streak,
+
   <br/>
-  and longest streak on your GitHub profile README
+  GitHub profile README
 </p>
 
 <p align="center">
