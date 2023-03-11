@@ -1,5 +1,7 @@
 
-
+<div style="background-image:url(//www.html.am/images/image-codes/milford_sound_t.jpg);width:220px;height:140px;color:black;font-size:18px;">
+This text appears in front of the background image.
+</div>
 <p align="center">
   <img src="" width="100px"/>
   <h3 align="center">Github Readme Streak Stats</h3>
