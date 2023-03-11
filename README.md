@@ -2,7 +2,7 @@
 https://i.gifer.com/Bhn4.gif
 
 <p align="center">
-  <img src="https://i.imgur.com/GZHodUG.png" width="100px"/>
+  <img src="[https://i.imgur.com/GZHodUG.png](https://i.gifer.com/Bhn4.gif)" width="100px"/>
   <h3 align="center">Github Readme Streak Stats</h3>
 </p>
 
