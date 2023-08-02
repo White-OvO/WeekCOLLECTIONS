@@ -31,6 +31,18 @@ using append the string "We sold " to the end of the stringbuilder object.append
 
 ![Screen Shot 2023-08-01 at 11 28 41 PM](https://github.com/White-OvO/WeekCOLLECTIONS/assets/120700219/de6a361c-d5fa-44ad-bafe-55b976295ac6)
 
+# week_4_video
+
+This code creates an ArrayList of integers and adds four values the values of the ArrayList using a for loop then are printed.
+It inserts a new value, 6, at index 1 of the ArrayList, shifting the other values to the right.
+It prints the updated ArrayList using another for loop, along with their indices.
+It creates a LinkedList of strings and adds four values to it: “Cost Rica”, “USA”, “Egypt”, and “Japan”.
+
+![Screen Shot 2023-08-01 at 11 49 03 PM](https://github.com/White-OvO/WeekCOLLECTIONS/assets/120700219/e82e8a38-2953-40a4-b6d7-965329b10d62)
+
+
+
+
 
 
 
