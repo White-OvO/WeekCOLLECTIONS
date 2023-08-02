@@ -21,3 +21,7 @@ It deletes the character at index 8 of the StringBuilder object, which is â€˜0â€
 
 
 ![Screen Shot 2023-08-01 at 11 22 49 PM](https://github.com/White-OvO/WeekCOLLECTIONS/assets/120700219/7004d9c1-bfc5-456a-96ab-25307275c3d8)
+
+
+
+
