@@ -25,3 +25,13 @@ It deletes the character at index 8 of the StringBuilder object, which is â€˜0â€
 
 
 
+# Week4_in_class
+
+using append the string "We sold " to the end of the stringbuilder object.appending the integer 12 to the end of the stringbuilder object, turning it to a string. appending the double 15.95 to the end of the stringbuilder object, converting it to a string.
+
+![Screen Shot 2023-08-01 at 11 28 41 PM](https://github.com/White-OvO/WeekCOLLECTIONS/assets/120700219/de6a361c-d5fa-44ad-bafe-55b976295ac6)
+
+
+
+
+
