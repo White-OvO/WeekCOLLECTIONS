@@ -10,3 +10,14 @@ It prints all the values of the LinkedList using an iterator, separated by dashe
 
 **`BackEnd_Developer`**
 ![Screen Shot 2023-08-01 at 11 18 38 PM](https://github.com/White-OvO/WeekCOLLECTIONS/assets/120700219/c0006869-f1d4-402f-aad3-0a86357924e7)
+
+
+
+# week 4 meeting 
+
+It creates a StringBuilder object with the initial value of “I ate 100 blue berries.” and a capacity of 32.
+It prints the value of the StringBuilder object, which is “I ate 100 blue berries.”.
+It deletes the character at index 8 of the StringBuilder object, which is ‘0’.
+
+
+![Screen Shot 2023-08-01 at 11 22 49 PM](https://github.com/White-OvO/WeekCOLLECTIONS/assets/120700219/7004d9c1-bfc5-456a-96ab-25307275c3d8)
